@@ -1,0 +1,15 @@
+[2017-01-21 13:06:05] START
+[2017-01-21 13:08:21] CREATE NameIt.py: 0
+[2017-01-21 13:14:49] EDIT NameIt/controllers/NameIt.py: 1
+[2017-01-21 13:15:34] EDIT NameIt/controllers/NameIt.py: 0
+[2017-01-21 13:18:34] EDIT NameIt/views/default/index.html: -40
+[2017-01-21 13:19:31] EDIT NameIt/views/default/index.html: 40
+[2017-01-21 13:25:41] EDIT NameIt/controllers/NameIt.py: 0
+[2017-01-21 13:31:34] EDIT NameIt/controllers/NameIt.py: 0
+[2017-01-21 13:49:02] EDIT NameIt/controllers/default.py: -6
+[2017-01-21 13:50:26] EDIT NameIt/controllers/default.py: 0
+[2017-01-21 13:50:28] EDIT NameIt/controllers/default.py: 0
+[2017-01-21 14:08:36] EDIT NameIt/controllers/default.py: 0
+[2017-01-21 14:10:20] EDIT NameIt/views/default/index.html: -40
+[2017-01-21 14:17:33] EDIT NameIt/views/default/index.html: 3
+[2017-01-21 14:18:07] EDIT NameIt/controllers/default.py: 4
