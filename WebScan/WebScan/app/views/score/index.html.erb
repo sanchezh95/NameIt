@@ -1,0 +1,10 @@
+<%= form_tag(scores_path_url, :method => "get", id: "search-form") do %>
+    <%= text_field_tag :search, params[:search], placeholder: "Search Score" %>
+    <%= submit_tag "Search" %>
+<% end %>
+
+<% if @scr.present? %>
+    <p>Score <%= params[:search] %> was found.</p>
+<% else %>
+    <p>Score <%= params[:search] %> was not found.</p>
+<% end %>
